@@ -43,3 +43,12 @@ const val = 8.5471;
 const apvalinta = val.toFixed(2);
 console.log('apvalinta ===', apvalinta);
 console.log('apvalinta ===', typeof apvalinta);
+
+const mixedArray = [5, 'blue', true, false, 'Mike', 10, '50', 0, -1, 'age'];
+// atrinkti i atskirus masyvus visus
+// string tipo duomenis
+// boolean tipo duomenis
+// skaiciu tipo duomenis
+
+// gauti skaiciu tipo duomenu vidurki
+// isitikinti kad suskaiciuota ir atrinkta teisingai
